@@ -1,6 +1,6 @@
 # Informativa sulla privacy — Motivetto
 
-*Ultimo aggiornamento: 7 settembre 2026. La cronologia di questo file è pubblica: non
+*Ultimo aggiornamento: 3 novembre 2026. La cronologia di questo file è pubblica: non
 può essere cambiato in silenzio.*
 
 ## In breve
@@ -54,17 +54,13 @@ L'app non è rivolta a bambini e non raccoglie dati da nessuno, di qualunque et�
 
 ## Contatti
 
-Alessandro Favarotto
-
-> **Da completare prima di indicare questo indirizzo a Google Play:** qui va una
-> casella di posta dedicata all'app. Finché questa riga è qui, l'informativa è
-> leggibile ma non ancora completa.
+Alessandro Favarotto — **motivettoapp@gmail.com**
 
 ---
 
 # Privacy policy — Motivetto
 
-*Last updated: 7 September 2026. The history of this file is public: it cannot be
+*Last updated: 3 November 2026. The history of this file is public: it cannot be
 changed silently.*
 
 ## In short
@@ -118,8 +114,4 @@ The app is not directed at children and collects no data from anyone, of any age
 
 ## Contact
 
-Alessandro Favarotto
-
-> **To complete before giving this address to Google Play:** an email address
-> dedicated to the app goes here. While this line is present, the policy is
-> readable but not yet complete.
+Alessandro Favarotto — **motivettoapp@gmail.com**
